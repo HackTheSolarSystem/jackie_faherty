@@ -1,19 +1,17 @@
-## { Project Name }
+## {jackie_faherty}
 
-### Addressing { Challenge Name, include a link to the challenge }
+### Addressing {HackTheSolarSystem, https://github.com/HackTheSolarSystem }
 
-### Created by { Team Name }
-* List
-* Every
-* Team
-* Member's
-* GitHub handle and Full Name
+### Created by { UAG }
+
+Michael Guerrero - BungJiga
+Journisha Dolphin - journishadolphin
+DeAnna Townes - DeAnnaChrista
+
 
 ### Solution Description
 
-You must provide a paragraph describing the solution in some detail. This must be an entire paragraph, more than one or two sentences.
-It should explain whatever approaches you took to the problem, what you think worked and what did not work, and describe potential future
-work to be done.
+Website on the achievments of Dr. Jackie Faherty and her life in science.
 
 ### Installation Instructions
 
