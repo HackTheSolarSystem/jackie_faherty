@@ -4,8 +4,8 @@
 
 ### Created by { UAG }
 
-Michael Guerrero - BungJiga
-Journisha Dolphin - journishadolphin
+Michael Guerrero - BungJiga,
+Journisha Dolphin - journishadolphin,
 DeAnna Townes - DeAnnaChrista
 
 
